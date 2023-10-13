@@ -3,7 +3,7 @@
 ## Olá! Eu sou o Wesley Estevão 🤘🏼
 
 #### Social midia:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyesantos/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@excelinfo8516) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.youtube.com/@excelinfo8516)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyesantos) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@excelinfo8516) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/wesleyesantos1)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wesleyesantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wesleyesantos/github-readme-stats#gh-dark-mode-only)
 
