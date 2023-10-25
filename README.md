@@ -1,8 +1,12 @@
 
-
 # Hello! I'm Wesley Estevão dos Santos 👍🏽
+<br/>
 
-#### Welcome to my profile, I'm a data analyst student in Fiap's postech 👨🏼‍🎓🚀. I work about 10 year with data 📈📉💹, I have great skills with Excel and power BI 📊.
+## About me
+- Data analyst student in Fiap's postech 👨🏼‍🎓🚀. <br/>
+- Great skills with Data analysis and bussines (Logistics and supply chain) 📈📉💹📊. <br/>
+- Goal: Became a recognized tem leader before 2030.💪🏽 <br/> 
+
 
 ## Social midia 🙋🏽‍♂️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyesantos) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@excelinfo8516) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/wesleyesantos1)
