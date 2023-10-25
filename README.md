@@ -7,6 +7,8 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wesleyesantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wesleyesantos/github-readme-stats#gh-dark-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyesantos&layout=compact)
+
 ### Tecnologias que eu uso no meu dia
 <div styles="display: inline_block"><br/>
     <img align="center" alt="Excel" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
