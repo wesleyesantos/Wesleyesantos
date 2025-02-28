@@ -11,7 +11,10 @@
   - Dataviz: Power BI, Streamlit,
   - Models: python, Jupyter,
 - Differential - To be curious for always learn something new, automatizate everything that I can, use the best performance of basic toos,
-- Languages - Portuguese (Native), English (Advanced | Professional), Spanish (Basic). <br/> 
+- Languages:
+  - Portuguese (Native),
+  - English (Advanced | Professional),
+  - Spanish (Basic). <br/> 
 
 
 ## Social midia 🙋🏽‍♂️
