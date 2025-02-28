@@ -3,9 +3,10 @@
 <br/>
 
 ## About me
-- Data analyst student in Fiap's postech 👨🏼‍🎓🚀. <br/>
-- Great skills with Data analysis and bussines (Logistics and supply chain) 📈📉💹📊. <br/>
-- Goal: Became a recognized tem leader before 2030.💪🏽 <br/> 
+- Recently post graduated as Data Scientist in FIAP 👨🏼‍🎓🚀. <br/>
+- Great skills in Data analysis, business inteligence and operations (Gratuated and post graduated in Logistics and supply chain) 📈📉💹📊. <br/>
+- Preferred tools:
+  > Basic for get data: Excel, SQL, Power BI, python<br/> 
 
 
 ## Social midia 🙋🏽‍♂️
@@ -21,6 +22,7 @@
     <br/>
     <img align="center" alt="SQL" src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)" />
     <br/>
+
     <img align="center" alt="Jupyter" src = "https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)"/>
     <br/>
     <img align="center" alt="Excel" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
