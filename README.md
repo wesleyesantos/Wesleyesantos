@@ -3,10 +3,15 @@
 <br/>
 
 ## About me
-- Recently post graduated as Data Scientist in FIAP 👨🏼‍🎓🚀. <br/>
-- Great skills in Data analysis, business inteligence and operations (Gratuated and post graduated in Logistics and supply chain) 📈📉💹📊. <br/>
+- Recently post graduated as Data Scientist in FIAP 👨🏼‍🎓🚀, <br/>
+- Great skills in Data analysis, business inteligence and operations (Gratuated and post graduated in Logistics and supply chain) 📈📉💹📊, <br/>
 - Preferred tools:
-  > Basic for get data: Excel, SQL, Power BI, python<br/> 
+  > Basic for get data: Excel, access,
+  > ETL: python, SQL, Power query,
+  > Dataviz: Power BI, Streamlit,
+  > Models: python, Jupyter,
+- Differential - To be curious for always learn something new, automatizate everything that I can, use the best performance of basic toos,
+- Languages - Portuguese (Native), English (Advanced | Professional), Spanish (Basic). <br/> 
 
 
 ## Social midia 🙋🏽‍♂️
