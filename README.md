@@ -14,8 +14,11 @@
 - Languages:
   - Portuguese (Native),
   - English (Advanced | Professional),
-  - Spanish (Basic). <br/> 
-
+  - Spanish (Basic). <br/>
+ 
+## Projects
+- [Hachaton - Análise do cenário do combústivel no Brasil]([https://br.pinterest.com/pin/356417758024611034/](https://projetotechchallenge4-3dtat.streamlit.app/))<br/>
+- [Datathon - Passos mágicos]([[https://br.pinterest.com/pin/356417758024611034/](https://projetotechchallenge4-3dtat.streamlit.app/)](https://datathon-wesleyesantos-g44.streamlit.app/))<br/>
 
 ## Social midia 🙋🏽‍♂️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyesantos) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@excelinfo8516) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/wesleyesantos1)
@@ -26,11 +29,11 @@
 
 ## My Techs 👨🏽‍💻
 <div styles="display: inline_block"><br/>
-     <img align="center" alt="Jupyter" src = "http://ForTheBadge.com/images/badges/built-with-science.svg"/>
+     <img align
+="center" alt="Jupyter" src = "http://ForTheBadge.com/images/badges/built-with-science.svg"/>
     <br/>
     <img align="center" alt="SQL" src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)" />
     <br/>
-
     <img align="center" alt="Jupyter" src = "https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)"/>
     <br/>
     <img align="center" alt="Excel" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
